@@ -11,3 +11,4 @@
 4. 随意修改内容 → 右侧实时预览  
 5. 点击「导出 HTML」或「导出 PDF」完成新简历
 
+线上使用：https://howstudy.github.io/HTML-Resume-Editor/%E7%AE%80%E5%8E%86%E7%BC%96%E8%BE%91%E5%99%A8.html
